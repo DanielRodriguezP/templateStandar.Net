@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.API", "Template.API\Template.API.csproj", "{25DD4F76-A2EC-42AE-913B-E8D14C2F2E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.Domain", "Template.Domain\Template.Domain.csproj", "{D2626506-8C5A-4527-A40F-A1A17CB6B7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DD4F76-A2EC-42AE-913B-E8D14C2F2E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DD4F76-A2EC-42AE-913B-E8D14C2F2E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DD4F76-A2EC-42AE-913B-E8D14C2F2E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DD4F76-A2EC-42AE-913B-E8D14C2F2E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2626506-8C5A-4527-A40F-A1A17CB6B7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2626506-8C5A-4527-A40F-A1A17CB6B7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2626506-8C5A-4527-A40F-A1A17CB6B7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2626506-8C5A-4527-A40F-A1A17CB6B7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF3D039E-69B1-4B88-8E90-D2DE7D188CCF}
+	EndGlobalSection
+EndGlobal
