@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Interfaces\" />
+    <None Remove="Responses\" />
+    <None Remove="DTOs\" />
+    <None Remove="Helpers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Responses\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Helpers\" />
+  </ItemGroup>
 </Project>

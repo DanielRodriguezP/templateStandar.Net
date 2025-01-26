@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Template.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Template.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Template.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Template.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Template.Domain/Template.Domain.csproj",
+      "msbuildProject": "../Template.Domain/Template.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Template.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mac/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Application/Template.Application.csproj",
+      "projectName": "Template.Application",
+      "projectPath": "/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Application/Template.Application.csproj",
+      "packagesPath": "/Users/mac/.nuget/packages/",
+      "outputPath": "/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mac/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/Template.Domain.csproj": {
+              "projectPath": "/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/Template.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

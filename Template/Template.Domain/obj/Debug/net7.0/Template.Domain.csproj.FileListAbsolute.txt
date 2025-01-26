@@ -1,0 +1,12 @@
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/bin/Debug/net7.0/Template.Domain.deps.json
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/bin/Debug/net7.0/Template.Domain.dll
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/bin/Debug/net7.0/Template.Domain.pdb
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/Template.Domain.csproj.AssemblyReference.cache
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/Template.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/Template.Domain.AssemblyInfoInputs.cache
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/Template.Domain.AssemblyInfo.cs
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/Template.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/Template.Domain.dll
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/refint/Template.Domain.dll
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/Template.Domain.pdb
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Domain/obj/Debug/net7.0/ref/Template.Domain.dll

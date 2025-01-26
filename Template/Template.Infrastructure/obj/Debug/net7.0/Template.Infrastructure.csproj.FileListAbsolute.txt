@@ -1,0 +1,5 @@
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Infrastructure/obj/Debug/net7.0/Template.Infrastructure.csproj.AssemblyReference.cache
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Infrastructure/obj/Debug/net7.0/Template.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Infrastructure/obj/Debug/net7.0/Template.Infrastructure.AssemblyInfoInputs.cache
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Infrastructure/obj/Debug/net7.0/Template.Infrastructure.AssemblyInfo.cs
+/Users/mac/Desktop/template API/templateStandar.Net/Template/Template.Infrastructure/obj/Debug/net7.0/Template.Infrastructure.csproj.CoreCompileInputs.cache
